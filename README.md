@@ -5,7 +5,6 @@ This repo contains my solution to a neural network challenge where I built a mod
 ##  What's Inside
 
 - `student_loans_with_deep_learning.ipynb`: The main Jupyter notebook — goes through data prep, building and training the model, and making predictions.
-- `student_loans.keras`: The trained model saved in Keras format.
 - `student-loans.csv`: The dataset provided for the challenge (sourced via URL).
 
 ##  What I Did
@@ -20,7 +19,7 @@ This repo contains my solution to a neural network challenge where I built a mod
 
 - Used ReLU activation for hidden layers, sigmoid for the output layer.
 - Binary classification problem with decent balance in the target classes.
-- Super basic architecture — 2 hidden layers, nothing wild.
+- Super basic architecture, 2 hidden layers, nothing wild.
 
 ## Final Thoughts
 
